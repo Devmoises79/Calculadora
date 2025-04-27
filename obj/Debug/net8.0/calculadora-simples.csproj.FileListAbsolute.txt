@@ -1,0 +1,14 @@
+C:\Users\MOISÉS\Desktop\calculadora-simples\obj\Debug\net8.0\calculadora-simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOISÉS\Desktop\calculadora-simples\obj\Debug\net8.0\calculadora-simples.AssemblyInfoInputs.cache
+C:\Users\MOISÉS\Desktop\calculadora-simples\obj\Debug\net8.0\calculadora-simples.AssemblyInfo.cs
+C:\Users\MOISÉS\Desktop\calculadora-simples\obj\Debug\net8.0\calculadora-simples.csproj.CoreCompileInputs.cache
+C:\Users\MOISÉS\Desktop\calculadora-simples\bin\Debug\net8.0\calculadora-simples.exe
+C:\Users\MOISÉS\Desktop\calculadora-simples\bin\Debug\net8.0\calculadora-simples.deps.json
+C:\Users\MOISÉS\Desktop\calculadora-simples\bin\Debug\net8.0\calculadora-simples.runtimeconfig.json
+C:\Users\MOISÉS\Desktop\calculadora-simples\bin\Debug\net8.0\calculadora-simples.dll
+C:\Users\MOISÉS\Desktop\calculadora-simples\bin\Debug\net8.0\calculadora-simples.pdb
+C:\Users\MOISÉS\Desktop\calculadora-simples\obj\Debug\net8.0\calculadora-simples.dll
+C:\Users\MOISÉS\Desktop\calculadora-simples\obj\Debug\net8.0\refint\calculadora-simples.dll
+C:\Users\MOISÉS\Desktop\calculadora-simples\obj\Debug\net8.0\calculadora-simples.pdb
+C:\Users\MOISÉS\Desktop\calculadora-simples\obj\Debug\net8.0\calculadora-simples.genruntimeconfig.cache
+C:\Users\MOISÉS\Desktop\calculadora-simples\obj\Debug\net8.0\ref\calculadora-simples.dll
