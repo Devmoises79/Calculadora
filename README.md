@@ -55,10 +55,6 @@ O uso do return permite encerrar a execução do programa em casos específicos,
 
 *Opção inválida no menu
 
-## 📁 Estrutura
-CalculadoraSimples/
-├── Program.cs       # Código principal da calculadora
-├── README.md        # Documentação do projeto
 
 ## 💡 Exemplo de Execução
 
