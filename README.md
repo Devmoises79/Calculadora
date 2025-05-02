@@ -51,9 +51,7 @@ Este projeto foi feito para demonstrar conceitos básicos da linguagem C#:
 ## ✅ Controle de fluxo com return
 O uso do return permite encerrar a execução do programa em casos específicos, como:
 
-- Divisão por zero
-
-*Opção inválida no menu
+- Divisão por zero: *Opção inválida no menu
 
 
 ## 💡 Exemplo de Execução
