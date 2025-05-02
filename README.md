@@ -68,11 +68,14 @@ Escolha a operação:
 3 - Multiplicação
 4 - Divisão
 
-1
+1 (*Ex.)
+
 Digite o primeiro número:
 10
+
 Digite o segundo número:
 5
+
 O resultado da operação é: 15
 
 Obrigado por usar a Calculadora Simples!
