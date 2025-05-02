@@ -42,11 +42,11 @@ Este projeto foi feito para demonstrar conceitos básicos da linguagem C#:
 - Verifica se o divisor é zero para evitar erro na divisão.
 
 ## ✅ Tipos de dados
-int para números inteiros (opção escolhida pelo usuário).
+- int para números inteiros (opção escolhida pelo usuário).
 
-double para números decimais (números usados nas operações).
+- double para números decimais (números usados nas operações).
 
-string implicitamente usada ao ler dados do teclado.
+- string implicitamente usada ao ler dados do teclado.
 
 ## ✅ Controle de fluxo com return
 O uso do return permite encerrar a execução do programa em casos específicos, como:
